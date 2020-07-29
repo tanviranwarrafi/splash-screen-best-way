@@ -7,7 +7,7 @@ This project is for learning how to make splash screen in android.
 ### 1. Make custom `theme` in `styles.xml` file
 ```java
 <style name="AppTheme.Launcher">
-        <item name="android:windowBackground">@drawable/launcher_screen_with_logo</item> <!--Also available: @drawable:launcher_screen_with_background-->
+        <item name="android:windowBackground">@drawable/launcher_screen_with_logo</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:windowFullscreen">true</item>
